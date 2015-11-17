@@ -1,0 +1,5 @@
+net\javabeat\hibernate\Address.class
+net\javabeat\hibernate\Phone.class
+net\javabeat\hibernate\App.class
+net\javabeat\hibernate\HibernateUtil.class
+net\javabeat\hibernate\Person.class
